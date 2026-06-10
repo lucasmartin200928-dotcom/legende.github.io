@@ -1,15 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Légende</title>
-</head>
-<body>
 
-    <h1>Bienvenue sur Légende !</h1>
-
-    <p>Merci de visiter mon site.</p>
-
-    <img src="image.jpg" alt="Mon image" width="300">
-
-</body>
-</html>
